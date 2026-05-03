@@ -1,0 +1,47 @@
+SMART CITY TRANSPORTATION SYSTEM
+
+The city offers multiple transportation options for residents and visitors:
+
+1. PUBLIC BUS SYSTEM
+- City Bus Network: 25 routes covering all city districts
+- Operating Hours: 5:00 AM - 1:00 AM (Monday-Saturday)
+- Sunday Service: 7:00 AM - 11:00 PM
+- Night Owl Service: Limited routes 11:00 PM - 5:00 AM
+
+2. FARES AND PASSES
+- Single Ride: $2.50
+- Day Pass: $7.00 (unlimited rides)
+- Monthly Pass: $85.00
+- Student/Senior Discount: 50% off with valid ID
+- Children under 12: Free with adult
+
+3. BUS STOPS AND SCHEDULES
+- Real-time arrival information via City Transit App
+- Digital displays at major stops
+- Printed schedules available at City Hall and libraries
+- Mobile alerts for delays and route changes
+
+4. METRO/LIGHT RAIL
+- Red Line: Connects North District to Airport
+- Blue Line: East-West corridor through city center
+- Green Line: Serves University and Medical District
+- Operating Hours: 5:30 AM - 12:30 AM daily
+- Trains every 10-15 minutes during peak hours
+
+5. BIKE SHARING
+- City Bike Program: 200+ stations across the city
+- 24/7 access with mobile app
+- First 30 minutes free, then $1 per 30 minutes
+- Annual membership: $99.00
+
+6. PARKING
+- Street Parking: Free (2-hour limit in residential areas)
+- City Garages: $2 per hour, $15 daily maximum
+- Metered Parking: $1.50 per hour (8 AM - 6 PM)
+- Disabled Parking: Free with valid permit
+
+7. EMERGENCY TRANSPORT
+- Medical emergency: Call 911
+- Non-emergency medical transport: (555) 555-0100
+- Senior citizen transport service available
+- ADA accessible vehicles provided

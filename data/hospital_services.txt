@@ -1,0 +1,41 @@
+SMART CITY HOSPITAL SERVICES
+
+Our city provides comprehensive healthcare services across multiple facilities:
+
+1. GENERAL HOSPITALS
+- City General Hospital: 24/7 emergency care, specialist consultations, surgery
+  Address: 123 Main Street, City Center
+  Phone: (555) 123-4567
+  Hours: Open 24 hours
+
+- Westside Medical Center: Maternity care, pediatrics, cardiology
+  Address: 456 West Avenue
+  Phone: (555) 234-5678
+  Hours: 6:00 AM - 11:00 PM
+
+2. URGENT CARE CENTERS
+- Downtown Urgent Care: Non-life-threatening emergencies, minor injuries
+  Address: 789 Central Plaza
+  Phone: (555) 345-6789
+  Hours: 8:00 AM - 10:00 PM
+
+- North District Clinic: Walk-in appointments, vaccinations, physical exams
+  Address: 321 North Road
+  Phone: (555) 456-7890
+  Hours: 7:00 AM - 9:00 PM
+
+3. SPECIALIZED SERVICES
+- Emergency Room: Available at all general hospitals 24/7
+- Ambulance Service: Dial 911 for medical emergencies
+- Mental Health Services: Counseling and psychiatric care available
+- Pharmacy Services: Prescription fulfillment at all hospital locations
+
+4. APPOINTMENTS
+- Call ahead for non-emergency appointments
+- Online booking available at www.cityhealth.gov/book
+- Walk-ins accepted at urgent care centers
+
+5. COSTS AND INSURANCE
+- Accept all major insurance plans
+- Sliding scale fees for uninsured residents
+- Free health screenings monthly at community centers
