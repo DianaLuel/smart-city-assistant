@@ -10,7 +10,7 @@ A production-ready RAG-based Intelligent Citizen Assistance System for Smart Cit
 
 This is a complete, beginner-friendly chatbot system that allows citizens to ask questions about city services (hospitals, transportation, ID cards, emergency services) and receive accurate answers based **ONLY** on official city documents using Retrieval-Augmented Generation (RAG).
 
-## 🎯 Key Features
+## 🎯 Key Features,
 
 ✅ **RAG-Based Architecture** - Answers generated from official documents only  
 ✅ **User-Friendly Web Interface** - Built with Streamlit  
