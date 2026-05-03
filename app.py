@@ -2,6 +2,8 @@
 Smart City Citizen Assistant - Main Application
 
 A RAG-based chatbot for answering citizen questions about city services.
+
+Equipped to answer questions coming from the citizens correctly.
 """
 
 import os
