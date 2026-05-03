@@ -423,4 +423,4 @@ You know it's working when:
 ---
 
 **Built with ❤️ for Smart Cities**  
-*Privacy-First • Local AI • Open Source*
+*Privacy-First • Local AI • Open Source*   
