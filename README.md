@@ -411,7 +411,7 @@ For issues:
 3. Review error messages
 4. Check all files are in correct locations
 
-## 🎉 Success Criteria
+## 🎉  Success Criteria
 
 You know it's working when:
 - ✅ App opens in browser at localhost:8501
